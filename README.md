@@ -1,12 +1,24 @@
-# HTB-Writeups <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/bcf7d1ab-e2ff-4a49-ba73-b68de316eb92" />
+# 📝 HTB Writeups
 
-Hi! I'm a student trying to learn cybersecurity and improve my skills on HackTheBox. Here’s a collection of my writeups on various challenges. I'm always happy to learn! Please feel free to leave feedback or let me know if there's a better way to solve these challenges.
-## Challenges
+Hi! I'm a student trying to learn cybersecurity and improve my skills on HackTheBox. Here’s a collection of my writeups on challenges I’ve completed.
 
-## Network Analysis 
-```Easy```
-- [HTB Packet Puzzle](https://medium.com/@singhharjot1312/htb-packet-puzzle-writeup-85ed4b41f05b)
+I'm always happy to learn! Please feel free to leave feedback or let me know if there's a better way to solve these challenges.
 
-## DFIR
-```Easy```
-- [HTB Whisper](https://medium.com/@singhharjot1312/htb-whisper-a694a06d7001)
+---
+
+## 🌐 Network Analysis
+
+**Difficulty:** Easy
+
+**➡ Challenge:** [HTB Packet Puzzle](https://medium.com/@singhharjot1312/htb-packet-puzzle-writeup-85ed4b41f05b)
+
+---
+
+## 🕵️‍♂️ DFIR
+
+**Difficulty:** Easy
+
+**➡ Challenge:** [HTB Whisper](https://medium.com/@singhharjot1312/htb-whisper-a694a06d7001)
+
+---
+
