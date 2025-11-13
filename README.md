@@ -11,6 +11,7 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 **Difficulty:** Easy
 
 **➡ Challenge:** [HTB Packet Puzzle](https://medium.com/@singhharjot1312/htb-packet-puzzle-writeup-85ed4b41f05b)
+
 **➡ Challenge:** [HTB Interceptor](https://medium.com/@singhharjot1312/htb-interceptor-7f1faf7d5142)
 
 ---
