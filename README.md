@@ -14,6 +14,8 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 
 **➡ Challenge:** [HTB Interceptor](https://medium.com/@singhharjot1312/htb-interceptor-7f1faf7d5142)
 
+**➡ Challenge:** [HTB Cuidado](https://medium.com/@xharjotsingh/htb-cuidado-f2dd519781e4)
+
 ---
 
 ## 🕵️‍♂️ DFIR
