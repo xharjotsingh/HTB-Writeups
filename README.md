@@ -1,4 +1,4 @@
-# 📝 HTB Writeups <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/3ca5d045-c9ae-4af8-a9fa-1029c5e70ec1" />
+# 📝 HTB Writeups <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/d8893c8c-779a-440f-b6ab-87d464daf554" />
 
 
 Hi! I'm a student trying to learn cybersecurity and improve my skills on HackTheBox. Here’s a collection of my writeups on challenges I’ve completed.
