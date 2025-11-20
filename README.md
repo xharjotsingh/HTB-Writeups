@@ -25,5 +25,7 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 
 **➡ Challenge:** [HTB Whisper](https://medium.com/@singhharjot1312/htb-whisper-a694a06d7001)
 
+**➡ Challenge:** [HTB WhyFind](https://medium.com/@xharjotsingh/htb-whyfind-069f85675f34)
+
 ---
 
