@@ -27,5 +27,7 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 
 **➡ Challenge:** [HTB WhyFind](https://medium.com/@xharjotsingh/htb-whyfind-069f85675f34)
 
+**➡ Challenge:** [HTB NeuroSync](https://medium.com/@xharjotsingh/hack-the-box-neurosync-1bfaf0017281)
+
 ---
 
