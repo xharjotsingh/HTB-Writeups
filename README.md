@@ -17,6 +17,7 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 
 **➡ Challenge:** [HTB Cuidado](https://medium.com/@xharjotsingh/htb-cuidado-f2dd519781e4)
 
+
 ---
 
 ## 🕵️‍♂️ DFIR
@@ -31,3 +32,10 @@ I'm always happy to learn! Please feel free to leave feedback or let me know if 
 
 ---
 
+## 🛡️ SOC
+
+**Difficulty:** Easy
+
+**➡ Challenge:** [HTB PhishNet](https://medium.com/@xharjotsingh/hack-the-box-phishnet-674fb686fa68)
+
+---
